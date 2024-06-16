@@ -12,4 +12,5 @@ variable "fruits" {
 
 output "fruits" {
   value = var.fruits[0]
+  value1 = var.fruits[1]
 }
