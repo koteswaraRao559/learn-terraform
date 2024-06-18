@@ -3,4 +3,4 @@ variable "instance_type" {}
 variable "sg_id" {}
 variable "name" {}
 variable "env" {}
-variable "components" {}
+variable "zone_id" {}
